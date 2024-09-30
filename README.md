@@ -1,7 +1,7 @@
 **AutoShop Churn Customer Classification Model**
 
 **Author:** Muhammad Erico Ricardo
-
+**Data Source:** https://huggingface.co/datasets/SerhiiBond/automotive_churn_prediction
 **Background:**
 
 AutoShop, an e-commerce marketplace specializing in automotive products, aims to improve customer retention. The data analysis team developed a churn prediction model to identify customers at risk of leaving. This model allows the marketing team to target these customers with incentives and support.
