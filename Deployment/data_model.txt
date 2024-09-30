@@ -1,0 +1,1 @@
+["avg_frequency_login_days", "avg_transaction_value", "points_in_wallet", "last_visit_time", "membership_category", "preferred_offer_types", "feedback", "sentiment"]
